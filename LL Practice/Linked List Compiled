@@ -1,0 +1,1011 @@
+Last login: Thu May 26 21:47:56 on ttys000
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/9.\ retard\ Flip/
+Mds-MacBook-Pro:9. retard Flip Tamim$ gcc -o flip flip.c testFlip.c 
+Mds-MacBook-Pro:9. retard Flip Tamim$ ./flip 
+About to test the flip function
+Test [1] 
+Testing flip [] == []
+Test passed!
+Test [2] 
+Testing flip 1 == 1
+Test passed!
+Test [3] 
+Testing flip 12 == 21
+Segmentation fault: 11
+Mds-MacBook-Pro:9. retard Flip Tamim$ gcc -o flip flip.c testFlip.c 
+Mds-MacBook-Pro:9. retard Flip Tamim$ ./flip 
+About to test the flip function
+Test [1] 
+Testing flip [] == []
+Test passed!
+Test [2] 
+Testing flip 1 == 1
+Test passed!
+Test [3] 
+Testing flip 12 == 21
+test passed!
+Test [4] 
+Testing flip 01467 == 10647
+Segmentation fault: 11
+Mds-MacBook-Pro:9. retard Flip Tamim$ gcc -o flip flip.c testFlip.c 
+Mds-MacBook-Pro:9. retard Flip Tamim$ ./flip 
+About to test the flip function
+Test [1] 
+Testing flip [] == []
+Test passed!
+Test [2] 
+Testing flip 1 == 1
+Test passed!
+Test [3] 
+Testing flip 12 == 21
+Segmentation fault: 11
+Mds-MacBook-Pro:9. retard Flip Tamim$ gcc -o flip flip.c testFlip.c 
+Mds-MacBook-Pro:9. retard Flip Tamim$ ./flip 
+About to test the flip function
+Test [1] 
+Testing flip [] == []
+Test passed!
+Test [2] 
+Testing flip 1 == 1
+Test passed!
+Test [3] 
+Testing flip 12 == 21
+test passed!
+Test [4] 
+Testing flip 01467 == 10647
+Test passed!
+Test [5]
+Testing flip 2358 == 3285
+test passed!
+Testing flip 0123456789 == 1032547698
+Test passed!
+Test passed!
+All FLIP tests passed!  You are awesome!
+Mds-MacBook-Pro:9. retard Flip Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/13.\ reverse\ List/
+Mds-MacBook-Pro:13. reverse List Tamim$ gcc -o reverse reverseList.c testReverseList.c 
+Mds-MacBook-Pro:13. reverse List Tamim$ ./reverse 
+Testing reverse.
+testing reverse an empty list ...
+passed
+testing reverse a list of size 1...
+...checking output list is reversed ...
+...checking node values are not altered
+...passed
+testing reverse a list of size 2...
+...checking output list is reversed ...
+...checking node values are not altered
+...passed
+testing reverse a list of size 3...
+...checking output list is reversed ...
+...checking node values are not altered
+...passed
+
+All tests passed.  You are Awesome!
+Mds-MacBook-Pro:13. reverse List Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/2.\ back\ To\ Front/
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+backToFront.c:32:1: warning: control reaches end of non-void
+      function [-Wreturn-type]
+}
+^
+1 warning generated.
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+Mds-MacBook-Pro:2. back To Front Tamim$ ./backToFront 
+Running unit tests on backToFront()...
+TEST 1: testing backToFront on an empty list...
+... TEST 1 passed!
+TEST 2: testing backToFront on a single item list...
+... TEST 2 passed!
+TEST 3: testing backToFront on double item list...
+Segmentation fault: 11
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+Mds-MacBook-Pro:2. back To Front Tamim$ ./backToFront 
+Running unit tests on backToFront()...
+TEST 1: testing backToFront on an empty list...
+... TEST 1 passed!
+TEST 2: testing backToFront on a single item list...
+... TEST 2 passed!
+TEST 3: testing backToFront on double item list...
+Segmentation fault: 11
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+Mds-MacBook-Pro:2. back To Front Tamim$ ./backToFront 
+Running unit tests on backToFront()...
+TEST 1: testing backToFront on an empty list...
+... TEST 1 passed!
+TEST 2: testing backToFront on a single item list...
+... TEST 2 passed!
+TEST 3: testing backToFront on double item list...
+Assertion failed: (outputList == &second), function testBackToFront, file testBackToFront.c, line 84.
+Abort trap: 6
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+Mds-MacBook-Pro:2. back To Front Tamim$ ./backToFront 
+Running unit tests on backToFront()...
+TEST 1: testing backToFront on an empty list...
+... TEST 1 passed!
+TEST 2: testing backToFront on a single item list...
+... TEST 2 passed!
+TEST 3: testing backToFront on double item list...
+Segmentation fault: 11
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+Mds-MacBook-Pro:2. back To Front Tamim$ ./backToFront 
+Running unit tests on backToFront()...
+TEST 1: testing backToFront on an empty list...
+... TEST 1 passed!
+TEST 2: testing backToFront on a single item list...
+... TEST 2 passed!
+TEST 3: testing backToFront on double item list...
+Segmentation fault: 11
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+Mds-MacBook-Pro:2. back To Front Tamim$ ./backToFront 
+Running unit tests on backToFront()...
+TEST 1: testing backToFront on an empty list...
+... TEST 1 passed!
+TEST 2: testing backToFront on a single item list...
+... TEST 2 passed!
+TEST 3: testing backToFront on double item list...
+Assertion failed: (outputList == &second), function testBackToFront, file testBackToFront.c, line 84.
+Abort trap: 6
+Mds-MacBook-Pro:2. back To Front Tamim$ gcc -o backToFront backToFront.c testBackToFront.c 
+Mds-MacBook-Pro:2. back To Front Tamim$ ./backToFront 
+Running unit tests on backToFront()...
+TEST 1: testing backToFront on an empty list...
+... TEST 1 passed!
+TEST 2: testing backToFront on a single item list...
+... TEST 2 passed!
+TEST 3: testing backToFront on double item list...
+... TEST 3 passed!
+TEST 4: testing backToFront on 6 item list...
+   test that the links are correct
+   YES, links are correct
+   test that node values have not been changed
+   YES, node values have not been changed
+... TEST 4 passed!
+All PRAC EXAM tests passed! You are AWESOME!
+Mds-MacBook-Pro:2. back To Front Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/1.\ ordered\ Delete/
+Mds-MacBook-Pro:1. ordered Delete Tamim$ gcc -o orderedDelete orderedDelete.c testOrderedDelete.c 
+Mds-MacBook-Pro:1. ordered Delete Tamim$ ./orderedDelete 
+test an empty list
+before delete..
+X
+after delete..
+X
+test a list containing one node
+before delete..
+[42] -> X
+Segmentation fault: 11
+Mds-MacBook-Pro:1. ordered Delete Tamim$ gcc -o orderedDelete orderedDelete.c testOrderedDelete.c 
+Mds-MacBook-Pro:1. ordered Delete Tamim$ ./orderedDelete 
+test an empty list
+before delete..
+X
+after delete..
+X
+test a list containing one node
+before delete..
+[42] -> X
+after delete..
+[42] -> X
+test a list containing three nodes no deletion
+before delete..
+[7] -> [8] -> [21] -> X
+after delete..
+[7] -> [8] -> [21] -> X
+test a list containing three nodes b deleted
+before delete..
+[7] -> [6] -> [21] -> X
+after delete..
+[7] -> [21] -> X
+test a list containing three nodes c deleted
+before delete..
+[7] -> [26] -> [21] -> X
+after delete..
+[7] -> [26] -> X
+test a list containing three nodes b+c deleted
+before delete..
+[7] -> [3] -> [5] -> X
+after delete..
+[7] -> X
+before delete..
+[1] -> [4] -> [6] -> [6] -> [10] -> [4] -> X
+after delete..
+[1] -> [4] -> [6] -> [6] -> [10] -> X
+All tests passed.  You are awesome!
+Mds-MacBook-Pro:1. ordered Delete Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/3.\ First\ will\ be\ last/
+Mds-MacBook-Pro:3. First will be last Tamim$ gcc -o firstWillBeLast firstWillBeLast.c testFirstWillBeLast.c 
+Mds-MacBook-Pro:3. First will be last Tamim$ ./firstWillBeLast 
+Running unit tests on frontToBack()...
+TEST 1: testing frontToBack on an empty list...
+... TEST 1 passed!
+TEST 2: testing frontToBack on a single item list...
+... TEST 2 passed!
+TEST 3: testing frontToBack on double item list...
+Segmentation fault: 11
+Mds-MacBook-Pro:3. First will be last Tamim$ gcc -o firstWillBeLast firstWillBeLast.c testFirstWillBeLast.c 
+Mds-MacBook-Pro:3. First will be last Tamim$ ./firstWillBeLast 
+Running unit tests on frontToBack()...
+TEST 1: testing frontToBack on an empty list...
+... TEST 1 passed!
+TEST 2: testing frontToBack on a single item list...
+... TEST 2 passed!
+TEST 3: testing frontToBack on double item list...
+Assertion failed: (outputList == &second), function testFrontToBack, file testFirstWillBeLast.c, line 86.
+Abort trap: 6
+Mds-MacBook-Pro:3. First will be last Tamim$ gcc -o firstWillBeLast firstWillBeLast.c testFirstWillBeLast.c 
+Mds-MacBook-Pro:3. First will be last Tamim$ ./firstWillBeLast 
+Running unit tests on frontToBack()...
+TEST 1: testing frontToBack on an empty list...
+... TEST 1 passed!
+TEST 2: testing frontToBack on a single item list...
+... TEST 2 passed!
+TEST 3: testing frontToBack on double item list...
+Assertion failed: (outputList == &second), function testFrontToBack, file testFirstWillBeLast.c, line 86.
+Abort trap: 6
+Mds-MacBook-Pro:3. First will be last Tamim$ gcc -o firstWillBeLast firstWillBeLast.c testFirstWillBeLast.c 
+firstWillBeLast.c:30:19: error: no member named 'head' in
+      'struct _node'
+                newList = list->head;
+                          ~~~~  ^
+firstWillBeLast.c:31:27: error: no member named 'head' in
+      'struct _node'
+                nodePtr current = list->head;
+                                  ~~~~  ^
+2 errors generated.
+Mds-MacBook-Pro:3. First will be last Tamim$ ./firstWillBeLast 
+Running unit tests on frontToBack()...
+TEST 1: testing frontToBack on an empty list...
+... TEST 1 passed!
+TEST 2: testing frontToBack on a single item list...
+... TEST 2 passed!
+TEST 3: testing frontToBack on double item list...
+Assertion failed: (outputList == &second), function testFrontToBack, file testFirstWillBeLast.c, line 86.
+Abort trap: 6
+Mds-MacBook-Pro:3. First will be last Tamim$ gcc -o firstWillBeLast firstWillBeLast.c testFirstWillBeLast.c 
+Mds-MacBook-Pro:3. First will be last Tamim$ ./firstWillBeLast 
+Running unit tests on frontToBack()...
+TEST 1: testing frontToBack on an empty list...
+... TEST 1 passed!
+TEST 2: testing frontToBack on a single item list...
+... TEST 2 passed!
+TEST 3: testing frontToBack on double item list...
+... TEST 3 passed!
+TEST 4: testing frontToBack on 6 item list...
+   test that the links are correct
+   YES, links are correct
+   test that node values have not been changed
+   YES, node values have not been changed
+... TEST 4 passed!
+All PRAC EXAM tests passed! You are AWESOME!
+Mds-MacBook-Pro:3. First will be last Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/11.\ Clone/
+Mds-MacBook-Pro:11. Clone Tamim$ gcc -o clone clone.c testClone.c 
+clone.c:38:35: warning: incompatible pointer to integer
+      conversion assigning to 'int' from 'void *'
+      [-Wint-conversion]
+  ...newCurrent->value = malloc(sizeof(struct _node));
+                       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+Mds-MacBook-Pro:11. Clone Tamim$ gcc -o clone clone.c testClone.c 
+Mds-MacBook-Pro:11. Clone Tamim$ ,/clone
+-bash: ,/clone: No such file or directory
+Mds-MacBook-Pro:11. Clone Tamim$ ./clone 
+test cloning an empty list
+before cloning..
+X
+after cloning: original list:
+X
+after cloning: clone list:
+X
+test cloning a list containing one node
+before cloning..
+[42] -> X
+after cloning: original list:
+[42] -> X
+after cloning: clone list:
+[42] -> X
+test cloning a list containing two nodes
+before cloning..
+[7] -> [8] -> X
+after cloning: original list:
+[7] -> [8] -> X
+after cloning: clone list:
+[7] -> [8] -> X
+test cloning a list containing three nodes
+before cloning..
+[1] -> [2] -> [7] -> X
+after cloning: original list:
+[1] -> [2] -> [7] -> X
+after cloning: clone list:
+[1] -> [2] -> [7] -> X
+test cloning a list containing four nodes
+before clone..
+[1] -> [2] -> [7] -> [3] -> X
+after cloning: original list:
+[1] -> [2] -> [7] -> [3] -> X
+after cloning: clone list:
+[1] -> [2] -> [7] -> [3] -> X
+All tests passed.  You are awesome!
+Mds-MacBook-Pro:11. Clone Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/4.\ select\ Even/
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+selectEven.c:35:36: error: expected ';' after expression
+                        append (newList, current->value)
+                                                        ^
+                                                        ;
+1 error generated.
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+Segmentation fault: 11
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+Segmentation fault: 11
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+Segmentation fault: 11
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+after function call..
+Segmentation fault: 11
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+after function call..
+Segmentation fault: 11
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+after function call..
+Assertion failed: (l !=NULL), function showList, file testselectEven.c, line 261.
+evenList is Abort trap: 6
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+after function call..
+Assertion failed: (l !=NULL), function showList, file testselectEven.c, line 261.
+evenList is Abort trap: 6
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+after function call..
+evenList is X
+sourceList is: X
+
+test a list containing one even integer
+before function call..
+sourceList is: [42] -> X
+after function call..
+evenList is [42] -> X
+sourceList is: [42] -> X
+
+test a list containing one odd integer
+before function call..
+sourceList is: [41] -> X
+after function call..
+evenList is X
+sourceList is: [41] -> X
+
+test a list containing one odd and one even integer
+before function call..
+sourceList is: [73] -> [22] -> X
+after function call..
+evenList is [22] -> X
+sourceList is: [73] -> [22] -> X
+
+test a list containing two even integers
+before function call..
+sourceList is: [100] -> [44] -> X
+after function call..
+evenList is [100] -> [44] -> X
+sourceList is: [100] -> [44] -> X
+
+test a list containing two odd integers
+before function call..
+sourceList is: [101] -> [55] -> X
+after function call..
+evenList is X
+sourceList is: [101] -> [55] -> X
+
+test a list containing one odd and three even integers
+before function call..
+sourceList is: [4] -> [166] -> [3] -> [72] -> X
+after function call..
+evenList is [4] -> [166] -> [72] -> X
+sourceList is: [4] -> [166] -> [3] -> [72] -> X
+
+test a list containing four odd and three even integers
+before function call..
+sourceList is: [3] -> [66] -> [71] -> [36] -> [45] -> [232] -> [21] -> X
+after function call..
+evenList is [66] -> [36] -> [232] -> X
+sourceList is: [3] -> [66] -> [71] -> [36] -> [45] -> [232] -> [21] -> X
+All tests passed ! You are awesome
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+after function call..
+Segmentation fault: 11
+Mds-MacBook-Pro:4. select Even Tamim$ gcc -o selectEven selectEven.c testselectEven.c 
+Mds-MacBook-Pro:4. select Even Tamim$ ./selectEven 
+test an empty list
+before function call..
+sourceList is: X
+after function call..
+evenList is X
+sourceList is: X
+
+test a list containing one even integer
+before function call..
+sourceList is: [42] -> X
+after function call..
+evenList is [42] -> X
+sourceList is: [42] -> X
+
+test a list containing one odd integer
+before function call..
+sourceList is: [41] -> X
+after function call..
+evenList is X
+sourceList is: [41] -> X
+
+test a list containing one odd and one even integer
+before function call..
+sourceList is: [73] -> [22] -> X
+after function call..
+evenList is [22] -> X
+sourceList is: [73] -> [22] -> X
+
+test a list containing two even integers
+before function call..
+sourceList is: [100] -> [44] -> X
+after function call..
+evenList is [100] -> [44] -> X
+sourceList is: [100] -> [44] -> X
+
+test a list containing two odd integers
+before function call..
+sourceList is: [101] -> [55] -> X
+after function call..
+evenList is X
+sourceList is: [101] -> [55] -> X
+
+test a list containing one odd and three even integers
+before function call..
+sourceList is: [4] -> [166] -> [3] -> [72] -> X
+after function call..
+evenList is [4] -> [166] -> [72] -> X
+sourceList is: [4] -> [166] -> [3] -> [72] -> X
+
+test a list containing four odd and three even integers
+before function call..
+sourceList is: [3] -> [66] -> [71] -> [36] -> [45] -> [232] -> [21] -> X
+after function call..
+evenList is [66] -> [36] -> [232] -> X
+sourceList is: [3] -> [66] -> [71] -> [36] -> [45] -> [232] -> [21] -> X
+All tests passed ! You are awesome
+Mds-MacBook-Pro:4. select Even Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/5.\ List/
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+List.c:56:7: warning: comparison of function 'numItems' equal
+      to a null pointer is always false
+      [-Wtautological-pointer-compare]
+  if (numItems == 0)
+      ^~~~~~~~    ~
+List.c:56:7: note: prefix with the address-of operator to
+      silence this warning
+  if (numItems == 0)
+      ^
+      &
+List.c:68:3: error: expected expression
+  }
+  ^
+List.c:74:8: error: initializing 'list' (aka 'struct _list')
+      with an expression of incompatible type 'void *'
+  list newList = malloc(sizeof(struct _node));
+       ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+List.c:81:3: error: use of undeclared identifier 'link'
+  link current = l->head;
+  ^
+List.c:82:3: error: use of undeclared identifier 'link'
+  link previous = NULL;
+  ^
+List.c:83:10: error: use of undeclared identifier 'current';
+      did you mean 'cgetent'?
+  while (current != NULL){
+         ^~~~~~~
+         cgetent
+/usr/include/stdlib.h:258:6: note: 'cgetent' declared here
+int      cgetent(char **, char **, const char *);
+         ^
+List.c:83:10: warning: comparison of function 'cgetent' not
+      equal to a null pointer is always true
+      [-Wtautological-pointer-compare]
+  while (current != NULL){
+         ^~~~~~~    ~~~~
+List.c:83:10: note: prefix with the address-of operator to
+      silence this warning
+  while (current != NULL){
+         ^
+         &
+List.c:84:5: error: use of undeclared identifier 'previous'
+    previous = current->next;
+    ^
+List.c:84:16: error: use of undeclared identifier 'current'
+    previous = current->next;
+               ^
+List.c:85:5: error: use of undeclared identifier 'current'
+    current = previous;
+    ^
+List.c:85:15: error: use of undeclared identifier 'previous'
+    current = previous;
+              ^
+List.c:86:10: error: use of undeclared identifier 'previous'
+    free(previous);
+         ^
+List.c:93:3: error: use of undeclared identifier 'link'
+  link append = malloc(sizeof(struct _node));
+  ^
+List.c:94:9: error: member reference base type
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      is not a structure or union
+  append->value = value;
+  ~~~~~~^ ~~~~~
+List.c:95:9: error: member reference base type
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      is not a structure or union
+  append->next = NULL;
+  ~~~~~~^ ~~~~
+List.c:98:13: warning: incompatible pointer types assigning
+      to 'Node' (aka 'struct _node *') from
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      [-Wincompatible-pointer-types]
+    l->head = append;
+            ^ ~~~~~~
+List.c:100:5: error: use of undeclared identifier 'link'
+    link current = l->head;
+    ^
+List.c:101:12: error: use of undeclared identifier 'current'
+    while (current->next != NULL){
+           ^
+List.c:102:7: error: use of undeclared identifier 'current'
+      current = current->next;
+      ^
+List.c:102:17: error: use of undeclared identifier 'current'
+      current = current->next;
+                ^
+List.c:104:5: error: use of undeclared identifier 'current'
+    current->next = append;
+    ^
+List.c:112:3: error: use of undeclared identifier 'link'
+  link current = l->head;
+  ^
+fatal error: too many errors emitted, stopping now
+      [-ferror-limit=]
+3 warnings and 20 errors generated.
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+List.c:56:7: warning: comparison of function 'numItems' equal
+      to a null pointer is always false
+      [-Wtautological-pointer-compare]
+  if (numItems == 0)
+      ^~~~~~~~    ~
+List.c:56:7: note: prefix with the address-of operator to
+      silence this warning
+  if (numItems == 0)
+      ^
+      &
+List.c:68:3: error: expected expression
+  }
+  ^
+List.c:74:8: error: initializing 'list' (aka 'struct _list')
+      with an expression of incompatible type 'void *'
+  list newList = malloc(sizeof(struct _node));
+       ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+List.c:81:3: error: use of undeclared identifier 'link'
+  link current = l->head;
+  ^
+List.c:82:3: error: use of undeclared identifier 'link'
+  link previous = NULL;
+  ^
+List.c:83:10: error: use of undeclared identifier 'current';
+      did you mean 'cgetent'?
+  while (current != NULL){
+         ^~~~~~~
+         cgetent
+/usr/include/stdlib.h:258:6: note: 'cgetent' declared here
+int      cgetent(char **, char **, const char *);
+         ^
+List.c:83:10: warning: comparison of function 'cgetent' not
+      equal to a null pointer is always true
+      [-Wtautological-pointer-compare]
+  while (current != NULL){
+         ^~~~~~~    ~~~~
+List.c:83:10: note: prefix with the address-of operator to
+      silence this warning
+  while (current != NULL){
+         ^
+         &
+List.c:84:5: error: use of undeclared identifier 'previous'
+    previous = current->next;
+    ^
+List.c:84:16: error: use of undeclared identifier 'current'
+    previous = current->next;
+               ^
+List.c:85:5: error: use of undeclared identifier 'current'
+    current = previous;
+    ^
+List.c:85:15: error: use of undeclared identifier 'previous'
+    current = previous;
+              ^
+List.c:86:10: error: use of undeclared identifier 'previous'
+    free(previous);
+         ^
+List.c:93:3: error: use of undeclared identifier 'link'
+  link append = malloc(sizeof(struct _node));
+  ^
+List.c:94:9: error: member reference base type
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      is not a structure or union
+  append->value = value;
+  ~~~~~~^ ~~~~~
+List.c:95:9: error: member reference base type
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      is not a structure or union
+  append->next = NULL;
+  ~~~~~~^ ~~~~
+List.c:98:13: warning: incompatible pointer types assigning
+      to 'Node' (aka 'struct _node *') from
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      [-Wincompatible-pointer-types]
+    l->head = append;
+            ^ ~~~~~~
+List.c:100:5: error: use of undeclared identifier 'link'
+    link current = l->head;
+    ^
+List.c:101:12: error: use of undeclared identifier 'current'
+    while (current->next != NULL){
+           ^
+List.c:102:7: error: use of undeclared identifier 'current'
+      current = current->next;
+      ^
+List.c:102:17: error: use of undeclared identifier 'current'
+      current = current->next;
+                ^
+List.c:104:5: error: use of undeclared identifier 'current'
+    current->next = append;
+    ^
+List.c:112:3: error: use of undeclared identifier 'link'
+  link current = l->head;
+  ^
+fatal error: too many errors emitted, stopping now
+      [-ferror-limit=]
+3 warnings and 20 errors generated.
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+List.c:56:7: warning: comparison of function 'numItems' equal
+      to a null pointer is always false
+      [-Wtautological-pointer-compare]
+  if (numItems == 0)
+      ^~~~~~~~    ~
+List.c:56:7: note: prefix with the address-of operator to
+      silence this warning
+  if (numItems == 0)
+      ^
+      &
+List.c:67:80: error: expected ')'
+  ...(numItems(l)/2) + getValue (l,(numItems(l)/2 -1)) /2;
+                                                         ^
+List.c:67:24: note: to match this '('
+    median = (getValue (l, (numItems(l)/2) + getValu...
+                       ^
+List.c:74:8: error: initializing 'list' (aka 'struct _list')
+      with an expression of incompatible type 'void *'
+  list newList = malloc(sizeof(struct _node));
+       ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+List.c:81:3: error: use of undeclared identifier 'link'
+  link current = l->head;
+  ^
+List.c:82:3: error: use of undeclared identifier 'link'
+  link previous = NULL;
+  ^
+List.c:83:10: error: use of undeclared identifier 'current';
+      did you mean 'cgetent'?
+  while (current != NULL){
+         ^~~~~~~
+         cgetent
+/usr/include/stdlib.h:258:6: note: 'cgetent' declared here
+int      cgetent(char **, char **, const char *);
+         ^
+List.c:83:10: warning: comparison of function 'cgetent' not
+      equal to a null pointer is always true
+      [-Wtautological-pointer-compare]
+  while (current != NULL){
+         ^~~~~~~    ~~~~
+List.c:83:10: note: prefix with the address-of operator to
+      silence this warning
+  while (current != NULL){
+         ^
+         &
+List.c:84:5: error: use of undeclared identifier 'previous'
+    previous = current;
+    ^
+List.c:84:16: error: use of undeclared identifier 'current';
+      did you mean 'cgetent'?
+    previous = current;
+               ^~~~~~~
+               cgetent
+/usr/include/stdlib.h:258:6: note: 'cgetent' declared here
+int      cgetent(char **, char **, const char *);
+         ^
+List.c:85:5: error: use of undeclared identifier 'current'
+    current = previous->next;
+    ^
+List.c:85:15: error: use of undeclared identifier 'previous'
+    current = previous->next;
+              ^
+List.c:86:10: error: use of undeclared identifier 'previous'
+    free(previous);
+         ^
+List.c:93:3: error: use of undeclared identifier 'link'
+  link append = malloc(sizeof(struct _node));
+  ^
+List.c:94:9: error: member reference base type
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      is not a structure or union
+  append->value = value;
+  ~~~~~~^ ~~~~~
+List.c:95:9: error: member reference base type
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      is not a structure or union
+  append->next = NULL;
+  ~~~~~~^ ~~~~
+List.c:98:13: warning: incompatible pointer types assigning
+      to 'Node' (aka 'struct _node *') from
+      'void (List, int)' (aka 'void (struct _list *, int)')
+      [-Wincompatible-pointer-types]
+    l->head = append;
+            ^ ~~~~~~
+List.c:100:5: error: use of undeclared identifier 'link'
+    link current = l->head;
+    ^
+List.c:101:12: error: use of undeclared identifier 'current'
+    while (current->next != NULL){
+           ^
+List.c:102:7: error: use of undeclared identifier 'current'
+      current = current->next;
+      ^
+List.c:102:17: error: use of undeclared identifier 'current'
+      current = current->next;
+                ^
+List.c:104:5: error: use of undeclared identifier 'current'
+    current->next = append;
+    ^
+List.c:112:3: error: use of undeclared identifier 'link'
+  link current = l->head;
+  ^
+fatal error: too many errors emitted, stopping now
+      [-ferror-limit=]
+3 warnings and 20 errors generated.
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+List.c:56:7: warning: comparison of function 'numItems' equal
+      to a null pointer is always false
+      [-Wtautological-pointer-compare]
+  if (numItems == 0)
+      ^~~~~~~~    ~
+List.c:56:7: note: prefix with the address-of operator to
+      silence this warning
+  if (numItems == 0)
+      ^
+      &
+List.c:67:80: error: expected ')'
+  ...(numItems(l)/2) + getValue (l,(numItems(l)/2 -1)) /2;
+                                                         ^
+List.c:67:24: note: to match this '('
+    median = (getValue (l, (numItems(l)/2) + getValu...
+                       ^
+List.c:74:8: error: initializing 'list' (aka 'struct _list')
+      with an expression of incompatible type 'void *'
+  list newList = malloc(sizeof(struct _node));
+       ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+List.c:100:5: error: use of undeclared identifier 'link'
+    link current = l->head;
+    ^
+List.c:101:12: error: use of undeclared identifier 'current'
+    while (current->next != NULL){
+           ^
+List.c:102:7: error: use of undeclared identifier 'current'
+      current = current->next;
+      ^
+List.c:102:17: error: use of undeclared identifier 'current'
+      current = current->next;
+                ^
+List.c:104:5: error: use of undeclared identifier 'current'
+    current->next = append;
+    ^
+1 warning and 7 errors generated.
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+List.c:56:7: warning: comparison of function 'numItems' equal
+      to a null pointer is always false
+      [-Wtautological-pointer-compare]
+  if (numItems == 0)
+      ^~~~~~~~    ~
+List.c:56:7: note: prefix with the address-of operator to
+      silence this warning
+  if (numItems == 0)
+      ^
+      &
+List.c:67:81: error: expected ')'
+  ...+ getValue (l,(numItems(l)/2 -1)) /2);
+                                          ^
+List.c:67:14: note: to match this '('
+    median = (getValue (l, (numItems(l)/2) + getValu...
+             ^
+List.c:74:8: error: initializing 'list' (aka 'struct _list')
+      with an expression of incompatible type 'void *'
+  list newList = malloc(sizeof(struct _node));
+       ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning and 2 errors generated.
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+List.c:64:45: error: extraneous ')' before ';'
+    median = getValue (l, (numItems(l)-1)/2));
+                                            ^
+List.c:67:81: error: expected ')'
+  ...+ getValue (l,(numItems(l)/2 -1)) /2);
+                                          ^
+List.c:67:14: note: to match this '('
+    median = (getValue (l, (numItems(l)/2) + getValu...
+             ^
+List.c:74:8: error: initializing 'list' (aka 'struct _list')
+      with an expression of incompatible type 'void *'
+  list newList = malloc(sizeof(struct _node));
+       ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3 errors generated.
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+List.c:75:12: error: no member named 'head' in 'struct _node'
+  newList->head = NULL;
+  ~~~~~~~  ^
+List.c:76:10: warning: incompatible pointer types returning
+      'Node' (aka 'struct _node *') from a function with
+      result type 'List' (aka 'struct _list *')
+      [-Wincompatible-pointer-types]
+  return newList;
+         ^~~~~~~
+1 warning and 1 error generated.
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+Mds-MacBook-Pro:5. List Tamim$ ./list 
+......STARTING TESTS......
+EXISTING FUNCTIONS WORK FINE.
+TESTING median()...
+median Test1 passed.
+median Test2 passed.
+median Test3 passed.
+Segmentation fault: 11
+Mds-MacBook-Pro:5. List Tamim$ gcc -o list List.c testList.c 
+Mds-MacBook-Pro:5. List Tamim$ ./list 
+......STARTING TESTS......
+EXISTING FUNCTIONS WORK FINE.
+TESTING median()...
+median Test1 passed.
+median Test2 passed.
+median Test3 passed.
+median Test4 passed.
+median Test5 passed.
+ALL TESTS PASSED. YOU ARE AWESOME!
+Mds-MacBook-Pro:5. List Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/6.\ list\ 3\ core/
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3core.c list3-core-test.c 
+clang: error: no such file or directory: 'list3core.c'
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3-core.c list3-core-test.c 
+list3-core.c:19:13: error: no member named 'value' in
+      'struct _list'
+   newItem->value = item;
+   ~~~~~~~  ^
+list3-core.c:20:13: error: no member named 'next' in
+      'struct _list'
+   newItem->next = list;
+   ~~~~~~~  ^
+list3-core.c:20:20: error: unexpected type name 'list':
+      expected expression
+   newItem->next = list;
+                   ^
+list3-core.c:21:12: warning: incompatible pointer types
+      assigning to 'link' (aka 'struct _node *') from 'list'
+      (aka 'struct _list *') [-Wincompatible-pointer-types]
+   l->head = newItem;
+           ^ ~~~~~~~
+1 warning and 3 errors generated.
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3-core.c list3-core-test.c 
+list3-core.c:20:20: error: unexpected type name 'list':
+      expected expression
+   newItem->next = list;
+                   ^
+1 error generated.
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3-core.c list3-core-test.c 
+list3-core.c:20:20: error: unexpected type name 'list':
+      expected expression
+   newItem->next = list->next;
+                   ^
+1 error generated.
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3-core.c list3-core-test.c 
+list3-core.c:20:18: warning: incompatible pointer types
+      assigning to 'link' (aka 'struct _node *') from 'list'
+      (aka 'struct _list *') [-Wincompatible-pointer-types]
+   newItem->next = l;
+                 ^ ~
+1 warning generated.
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3-core.c list3-core-test.c 
+Mds-MacBook-Pro:6. list 3 core Tamim$ ./list3core 
+Testing list3-core...
+X
+[1] -> X
+[1] -> [2] -> X
+[0] -> [1] -> [2] -> X
+Segmentation fault: 11
+Mds-MacBook-Pro:6. list 3 core Tamim$ ./list3core 
+Testing list3-core...
+X
+[1] -> X
+[1] -> [2] -> X
+[0] -> [1] -> [2] -> X
+Segmentation fault: 11
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3-core.c list3-core-test.c 
+Mds-MacBook-Pro:6. list 3 core Tamim$ ./list3core 
+Testing list3-core...
+X
+Segmentation fault: 11
+Mds-MacBook-Pro:6. list 3 core Tamim$ gcc -o list3core list3-core.c list3-core-test.c 
+Mds-MacBook-Pro:6. list 3 core Tamim$ ./list3core 
+Testing list3-core...
+X
+[1] -> X
+[1] -> [2] -> X
+[0] -> [1] -> [2] -> X
+[0] -> [1] -> [2] -> [4] -> X
+All list3-core tests passed!  You are awesome
+Mds-MacBook-Pro:6. list 3 core Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ cd Desktop/LL\ Practice/7.\ list3\ extra\ fns/
+Mds-MacBook-Pro:7. list3 extra fns Tamim$ gcc -o list3-extraFns list3-extraFns.c sampleSolutions.c 
+list3-extraFns.c:44:4: error: use of undeclared identifier
+      'l'
+   l->head = to->head;
+   ^
+list3-extraFns.c:56:10: error: no member named 'next' in
+      'struct _list'
+   from->next = NULL;
+   ~~~~  ^
+2 errors generated.
+Mds-MacBook-Pro:7. list3 extra fns Tamim$ gcc -o list3-extraFns list3-extraFns.c sampleSolutions.c 
+list3-extraFns.c:57:10: error: no member named 'next' in
+      'struct _list'
+   from->next = NULL;
+   ~~~~  ^
+1 error generated.
+Mds-MacBook-Pro:7. list3 extra fns Tamim$ gcc -o list3-extraFns list3-extraFns.c sampleSolutions.c 
+Mds-MacBook-Pro:7. list3 extra fns Tamim$ ./list3-extraFns 
+testing concatenate
+testing newList()
+testing concatenate()
+All tests passed.  You are awesome!
+Mds-MacBook-Pro:7. list3 extra fns Tamim$ cd
+Mds-MacBook-Pro:~ Tamim$ 

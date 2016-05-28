@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"creat",
+				"createNode"
+			],
+			[
+				"back",
+				"backToFront"
+			],
+			[
+				"NUM",
+				"NUM_UNIS"
+			],
+			[
+				"getm",
+				"getMostPublications"
+			],
+			[
+				"getd",
+				"getDiceValue"
+			],
+			[
+				"re",
+				"regionID"
+			],
+			[
+				"dis",
+				"disposeGame"
+			],
+			[
+				"getDe",
+				"getDiscipline"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"in",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/GCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/GCC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/GCC.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: C"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Tamim/Desktop/COMP1917/Exam Database",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/CSE Prac/frontBackSplit",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/CSE Prac/reverseList",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/clone",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/orderedInsert",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/back To Front",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/list3 extra fns",
+		"/Users/Tamim/Desktop/LL Practice",
+		"/Users/Tamim/Desktop/LL Practice/11. Clone",
+		"/Users/Tamim/Desktop/LL Practice/12. ordered Insert",
+		"/Users/Tamim/Desktop/LL Practice/7. list3 extra fns"
+	],
+	"file_history":
+	[
+		"/Users/Tamim/Desktop/LL Practice/12. ordered Insert/list.h",
+		"/Users/Tamim/Desktop/LL Practice/6. list 3 core/list3-core.h",
+		"/Users/Tamim/Desktop/LL Practice/5. List/List.h",
+		"/Users/Tamim/Desktop/LL Practice/4. select Even/selectEven.c",
+		"/Users/Tamim/Desktop/LL Practice/11. Clone/clone.c",
+		"/Users/Tamim/Desktop/LL Practice/9. retard Flip/flip.c",
+		"/Users/Tamim/Desktop/LL Practice/7. list3 extra fns/list3-extraFns.c",
+		"/Users/Tamim/Desktop/LL Practice/5. List/testList.c",
+		"/Users/Tamim/Desktop/LL Practice/5. List/List.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/orderedInsert/orderedInsert.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/list3 extra fns/list3-extraFns.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/clone/list-ppexam.h",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/clone/clone_SAMPLE_SOLUTION.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/clone/clone_STUDENT_STUB.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/back To Front/backToFront.c",
+		"/Users/Tamim/Desktop/LL Practice/8. linkedlist/linkedLists.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/back To Front/testBackToFront.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/retardFlip/flip.c",
+		"/Users/Tamim/Desktop/LL Practice/7. list3 extra fns/list3-extraFns.h",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/List/List.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/select Even/selectEven.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/CS Labs/factorial.c",
+		"/Users/Tamim/Desktop/LL Practice/6. list 3 core/list3-core.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/Mother of LinkedLists/motherOfAllLinkedLists.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/list 3 core/list3-core.c",
+		"/Users/Tamim/Desktop/LL Practice/3. First will be last/firstWillBeLast.c",
+		"/Users/Tamim/Desktop/LL Practice/1. ordered Delete/orderedDelete.c",
+		"/Users/Tamim/Desktop/LL Practice/2. back To Front/backToFront.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/JadeIsAmazing/moveLastToFront/backToFront.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/CSE Prac/reverseList/testReverseList.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/CSE Prac/reverseList/reverseList.h",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/CSE Prac/reverseList/reverseList.c",
+		"/Users/Tamim/Desktop/LL Practice/10. Mother/motherOfAllLinkedLists.c",
+		"/Users/Tamim/Desktop/LL Practice/9. retard Flip/list.h",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/CSE Prac/pairwiseSwap/pairwiseSwap.c",
+		"/Users/Tamim/Desktop/LL Practice/7. list3 extra fns/list3-extraFns-test.c",
+		"/Users/Tamim/Desktop/LL Practice/6. list 3 core/list3-core-test.c",
+		"/Users/Tamim/Desktop/LL Practice/4. select Even/testselectEven.c",
+		"/Users/Tamim/Desktop/LL Practice/4. select Even/list-selectEven.h",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/First will be last/firstWillBeLast.c",
+		"/Users/Tamim/Desktop/LL Practice/1. ordered Delete/list-ppexam.h",
+		"/Users/Tamim/Desktop/LL Practice/1. ordered Delete/testOrderedDelete.c",
+		"/Users/Tamim/Desktop/LL Practice/2. back To Front/backToFront.h",
+		"/Users/Tamim/Desktop/LL Practice/List/List.c",
+		"/Users/Tamim/Desktop/LL Practice/linkedlist/linkedLists.c",
+		"/Users/Tamim/Desktop/LL Practice/list3 extra fns/list3-extraFns.c",
+		"/Users/Tamim/Desktop/LL Practice/list 3 core/list3-core.c",
+		"/Users/Tamim/Desktop/COMP1917/Exam Database/MashTheMan/linkList/ordered Delete/orderedDelete.c",
+		"/Users/Tamim/Desktop/sizeof.c",
+		"/Users/Tamim/Desktop/CSE Prac/pairwiseSwap/pairwiseSwap.c",
+		"/Users/Tamim/Google Drive/CS1917/testGame.c",
+		"/Users/Tamim/Google Drive/CS1917/mechanicalTurk.h",
+		"/Users/Tamim/Google Drive/CS1917/Game.h",
+		"/Users/Tamim/Google Drive/CS1917/runGame.c",
+		"/Users/Tamim/Google Drive/CS1917/mrPass.c",
+		"/Users/Tamim/Google Drive/CS1917/Game.c",
+		"/Users/Tamim/Desktop/COMP1917/JadeIsAmazing/nickIsOkay.c",
+		"/Users/Tamim/Desktop/COMP1917/Prac Exam/linkList/ordered Delete/orderedDelete.c",
+		"/Users/Tamim/Desktop/COMP1917/JadeIsAmazing/allInOne/lists.c",
+		"/Users/Tamim/Desktop/COMP1917/JadeIsAmazing/motherOfAllLinkedLists.c",
+		"/Users/Tamim/Desktop/COMP1917/JadeIsAmazing/clone/clone_SAMPLE_SOLUTION.c",
+		"/Users/Tamim/Desktop/COMP1917/JadeIsAmazing/clone/list-ppexam.h",
+		"/Users/Tamim/Desktop/COMP1917/JadeIsAmazing/clone/clone_STUDENT_STUB.c",
+		"/Users/Tamim/Desktop/COMP1917/JadeIsAmazing/theory/theory1.c",
+		"/Users/Tamim/Downloads/prac/questions.c",
+		"/Users/Tamim/Downloads/prac/list.c",
+		"/Users/Tamim/Desktop/COMP1917/CS1917/Game.c",
+		"/Users/Tamim/Desktop/COMP1917/Prac Exam/linkList/List.c",
+		"/Users/Tamim/Desktop/COMP1917/Hello/Lab Projects Mod 3/Show Danish/Show Danish/danish.c",
+		"/Users/Tamim/Desktop/COMP1917/Hello/Lab Projects Mod 3/rot13/rot13/rot13.c",
+		"/Users/Tamim/Dropbox/UNSW/COMP1917/linkList/testBackToFront.c",
+		"/Users/Tamim/Dropbox/UNSW/COMP1917/linkList/orderedDelete.c",
+		"/Users/Tamim/Desktop/COMP1917/Hello/Mod4/simpleEncode/simpleEncode/simpleEncode.c",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Tamim/Downloads/ccpp_prints_code/ccpp.bat",
+		"/Users/Tamim/Dropbox/UNSW/COMP1917/linkList/backToFront.c",
+		"/Users/Tamim/Desktop/COMP1917/Richard Lectures/Coding/44.c",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/05-12_linkedlist6.c",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/05-12_linkedlist5.c",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/05-12_linkedlist4.c",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/05-12_linkedlist3.c",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/05-12_linkedlist2.c",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/05-12_linkedlist1.c",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/User/C Sub.sublime-build",
+		"/Users/Tamim/Desktop/UNSW/Game/hW.c",
+		"/Users/Tamim/Desktop/COMP1917/The Project/testGame/testGame/testGame.c",
+		"/Users/Tamim/Google Drive/CS1917 Game/Game.c",
+		"/Users/Tamim/Desktop/ENGG1000/Webpage/engg1000.html",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/bootstrap.min.css",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/bootstrap-theme.min.css",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/bootstrap-theme.css",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/animate.css",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/styles.css",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/flexslider.css",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/queries.css",
+		"/Users/Tamim/Downloads/HalcyonDaysTemplate/css/bootstrap.css",
+		"/Users/Tamim/Desktop/Final testing.htm",
+		"/Users/Tamim/Desktop/Project Game/Project Game/Game.c",
+		"/Users/Tamim/Desktop/Project Game/Project Game/Game.h",
+		"/Users/Tamim/Desktop/Project Game/Project Game/mechanicalTurk.h",
+		"/Users/Tamim/Desktop/Project Game/Project Game/mrPass.c",
+		"/Users/Tamim/Desktop/acceptanceTesting.htm",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Tamim/Desktop/COMP1917/The Project/testGame/testGame/Game.h",
+		"/Users/Tamim/Desktop/COMP1917/The Project/testGame/testGame/Game.c",
+		"/Users/Tamim/Desktop/COMP1917/The Project/testGame/testGame/testGame",
+		"/Users/Tamim/Desktop/COMP1917/The Project/AngTest/rand.c",
+		"/Users/Tamim/Desktop/COMP1917/The Project/AngTest/linkedList.c",
+		"/Users/Tamim/Desktop/testGame.c",
+		"/Users/Tamim/Desktop/Game.h",
+		"/Users/Tamim/Desktop/lynda.com/my try/stupid test/testGame.c",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/User/C.sublime-settings",
+		"/Users/Tamim/Desktop/COMP1917/Lab/W9/testGame.c",
+		"/Users/Tamim/Desktop/COMP1917/Lab/W9/Game.h",
+		"/Users/Tamim/Desktop/COMP1917/Lab/W9/Game.c",
+		"/Users/Tamim/Desktop/COMP1917/Lab/W9/myTest.c",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/User/C.sublime-build",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/bulls1.c",
+		"/Users/Tamim/Desktop/COMP1917/The Project/Game.h/Game.h/main.c",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/User/GCC.sublime-build",
+		"/Users/Tamim/Desktop/COMP1917/Sublime Text/fTS.c",
+		"/Users/Tamim/Desktop/COMP1917/The Project/Game.h",
+		"/Users/Tamim/Desktop/COMP1917/Sublime Text/helloWorld.c",
+		"/Users/Tamim/Desktop/COMP1917/Sublime Text/function.c",
+		"/Users/Tamim/Library/Application Support/Sublime Text 3/Packages/User/abcd",
+		"/Users/Tamim/Desktop/lynda.com/Ex_Files_UaR_C/Exercise Files/05-02_pointer2.c"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current",
+			"getvalue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "Packages/User/C.sublime-build",
+	"project": "LinkedList.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
