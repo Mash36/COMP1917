@@ -28,17 +28,11 @@
 
 void orderedDelete (list l) {
 	link current = l->head;
-	if (l->head == NULL)
-	{
-		return;
-	} else {
+	if (l->head == NULL) return;
+	else {
 		while (current->next != NULL){
-			if (current->value > current->next->value)
-			{
-				current->next = current->next->next;
-			} else {
-				current = current->next;
-			}
+			if (current->value > current->next->value) current->next = current->next->next;
+		    else current = current->next;
 		}
 	}
 }
